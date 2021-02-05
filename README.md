@@ -13,3 +13,4 @@
 - M-CIS-S6-FX3CON parallel/MIPI SYZYGY standard peripheral/carrier board
 - Raspberrypi 15pin MIPI CSI-2 2lane camera module SYZYGY standard peripheral board
 - Raspberrypi 22pin MIPI CSI-2 4lane camera module SYZYGY standard peripheral board
+- FMC LPC to SZYGY standard peripheral/carrier board
