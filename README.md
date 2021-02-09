@@ -15,6 +15,7 @@
 - Raspberrypi 22pin MIPI CSI-2 4lane camera module SYZYGY standard peripheral board
 - FMC LPC to SZYGY standard peripheral/carrier board
 - Lattice crosslink MIPI CSI-2 input/output SYZYGY standard peripheral/carrier board
+- Lattice crosslink NX MIPI CSI-2 input/output SYZYGY standard peripheral/carrier board
 - EFFINIX FPGA MIPI CSI-2 input/output SYZYGY standard peripheral/carrier board
 - MIPI CSI-2 4lane to FPD link III DS90UB953 single serializer SYZYGY standard carrier board
 - FPD link III DS90UB954 dual deserializer to MIPI CSI-2 4lane SYZYGY standard peripheral board
